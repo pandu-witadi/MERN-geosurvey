@@ -1,0 +1,11 @@
+.idea
+
+client_admin/
+
+client_react/
+
+node_modules/
+
+package-lock.json
+
+src_node/data
